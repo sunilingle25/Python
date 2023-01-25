@@ -1,0 +1,19 @@
+mongosh
+=============================================================================================
+1) show dbs-----for showing all the databases present in your system
+---------------------------------------------------------------------------------------------
+2) use python-----for creating database and use of that database it does not show directly 
+by using show dbs until content is not available in db  
+---------------------------------------------------------------------------------------------
+3) python> db.createcollection("posts")----for creating collection inside ur db
+---------------------------------------------------------------------------------------------
+4) use db_name(python)-----for using yor created database
+---------------------------------------------------------------------------------------------
+5) posts> db.posts.insertOne("Rushi")----for inserting documents inside your collection
+--------------------------------------------------------------------------------------------- 
+6) show collections-----showing all collections present inside your database
+---------------------------------------------------------------------------------------------
+7) post> db.post.insertOne("sun")---for inserting documents inside your db
+---------------------------------------------------------------------------------------------
+8) python> db.python.find()----for finding all records inside your collection
+=============================================================================================
